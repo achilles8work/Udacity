@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="category_listen_now">Listen Now</string>
+    <string name="category_music_library">Music Library</string>
+    <string name="category_shop">Shop</string>
+    <string name="music_library_desc">This layout is dedicated to store all songs which a user is downloading with all the details such as album from which its belong , singer, year released etc.......</string>
+    <string name="shop_desc">This is layout where user can shop for his favourite songs by paying the amount decided by the seller..... </string>
+    <string name="listen_now_desc">This layout shows the song which user is currently playing......</string>
+</resources>

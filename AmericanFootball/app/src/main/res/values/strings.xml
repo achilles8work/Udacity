@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">American Football</string>
+    <string name="Team_a">Seattle Seahawks</string>
+    <string name="Team_b">Green Bay Packers</string>
+</resources>

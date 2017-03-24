@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">USA Tour Guide</string>
+    <string name="category_startup">Startup</string>
+    <string name="category_park">Parks</string>
+    <string name="category_restaurant">Restaurants</string>
+    <string name="category_mall">Malls</string>
+    <string name="rest_0_title">Anjappar Chettinad Restaurant</string>
+    <string name="rest_0_location">North Brunswick Township, NJ</string>
+    <string name="rest_1_title">Margaritaville Restaurant Syracuse</string>
+    <string name="rest_1_location">Syracuse, NY</string>
+    <string name="rest_2_title">A &amp; W All American Food</string>
+    <string name="rest_2_location">Grand Junction, CO</string>
+    <string name="rest_3_title">Red Lobster</string>
+    <string name="rest_3_location">Terre Haute, IN</string>
+    <string name="park_0_title">Acadia National Park</string>
+    <string name="park_0_location">Maine</string>
+    <string name="park_1_title">National Park of American Samoa</string>
+    <string name="park_1_location">Samoa</string>
+    <string name="park_2_title">Arches National Park</string>
+    <string name="park_2_location">Moab, Utah</string>
+    <string name="park_3_title">Badlands National Park</string>
+    <string name="park_3_location">Moab, Utah</string>
+    <string name="mall_0_title">Mall of America</string>
+    <string name="mall_0_location">Bloomington, Minnesota</string>
+    <string name="mall_1_title">King of Prussia Mall</string>
+    <string name="mall_1_location">King of Prussia, Pennsylvania</string>
+    <string name="mall_2_title">South Coast Plaza</string>
+    <string name="mall_2_location">Costa Mesa, California</string>
+    <string name="mall_3_title">South Coast Plaza</string>
+    <string name="mall_3_location">Costa Mesa, California</string>
+    <string name="startup_0_title">Airbnb, Inc.</string>
+    <string name="startup_0_location">San Francisco, California</string>
+    <string name="startup_1_title">Uber</string>
+    <string name="startup_1_location">San Francisco, California</string>
+    <string name="startup_2_title">Quora</string>
+    <string name="startup_2_location">Mountain View, California</string>
+    <string name="startup_3_title">ThinkGeek Inc.</string>
+    <string name="startup_3_location">Fairfax, Virginia</string>
+
+</resources>

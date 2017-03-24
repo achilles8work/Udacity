@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_editor"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.abhishek.habbittracker.EditorActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:text="Habbit"
+            style="@style/CategoryStyle"/>
+
+        <EditText
+            android:id="@+id/edit_habbit"
+            android:hint="Habbit"
+            android:inputType="textCapWords"
+            style="@style/EditorFieldStyle"/>
+
+        <TextView
+            android:text="Duration"
+            style="@style/CategoryStyle"/>
+
+        <EditText
+            android:id="@+id/edit_duration"
+            android:hint="Habbit"
+            android:inputType="textCapWords"
+            style="@style/EditorFieldStyle"/>
+    </LinearLayout>
+
+</LinearLayout>

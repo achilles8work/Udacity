@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cricket Quiz</string>
+    <string name="ques_1">Who holds the record for the highest number of runs in ODI Cricket?</string>
+    <string name="ques_2">The 2011 ICC World Cup(ODI) was hosted by which country?</string>
+    <string name="ques_3">who is the only player to have scored hundred international centuries?</string>
+    <string name="ques_4">An incoming batsman must be ready to face a ball within how many minutes of the outgoing batsman being dismissed?</string>
+    <string name="ques_5">Which Australian domestic Twenty20 cricket tournament is also known as the BBL?</string>
+    <string name="ques_6">Where is commonly referred to as the \'Home of Cricket\'?</string>
+    <string name="ans_1">Sachin Tendulkar</string>
+    <string name="ans_4">3 Minutes</string>
+    <string name="ans_5">Big Bash League</string>
+    <string name="ans_6">Lords</string>
+</resources>

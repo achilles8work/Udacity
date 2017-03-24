@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SingleScreenApp</string>
+    <string name="mountain_name">B R Hills</string>
+    <string name="mountain_desc">The Biligirirangana Hills, commonly called B R Hills, is a hill range situated in south-eastern Karnataka, at its border with Tamil Nadu (Erode District) in South India.
+        The area is called Biligiriranganatha Swamy Temple Wildlife Sanctuary or simply BRT Wildlife Sanctuary.
+        It is a protected reserve under the Wildlife Protection Act of 1972. Being at the confluence of the Western Ghats and the Eastern Ghats,
+        the sanctuary is home to eco-systems that are unique to both the mountain ranges.The site was declared a tiger reserve in January 2011 by the Karnataka government.</string>
+    <string name="place">Karnatka</string>
+</resources>
